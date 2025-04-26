@@ -1,7 +1,6 @@
-# Save the README content as a file
 
-readme_content = """
 # 📄 Chat with PDF using Groq
+
 
 ## 📋 Overview
 
