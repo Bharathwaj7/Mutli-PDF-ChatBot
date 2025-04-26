@@ -50,7 +50,7 @@ Built for document understanding, question answering, and real-time knowledge ex
 
 ### 1. Clone the Repo  
 ```bash
-git clone https://github.com/yourusername/chat-with-pdf-groq.git
+git clone https://github.com/Bharathwaj7/Mutli-PDF-ChatBot.git
 cd chat-with-pdf-groq
 ```
 ### 2. Create & Activate Virtual Env  
