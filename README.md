@@ -53,3 +53,36 @@ Built for document understanding, question answering, and real-time knowledge ex
 ```bash
 git clone https://github.com/yourusername/chat-with-pdf-groq.git
 cd chat-with-pdf-groq
+```
+### 2. Create & Activate Virtual Env  
+```bash
+python3 -m venv venv
+source venv/bin/activate
+``` 
+### 3. Install Dependencies  
+```bash
+pip install -r requirements.txt
+```
+### 4. Set Environment Variables
+```bash
+Create a .env file in the project root with your Groq API key
+GROQ_API_KEY=your-groq-api-key-here
+```
+### 5. Run the App
+```bash
+streamlit run app.py
+```
+
+## 📚 Models Supported
+qwen-qwq-32b
+deepseek-r1-distill-llama-70b
+gemma2-9b-it
+compound-beta
+compound-beta-mini
+llama-3.1-8b-instant
+llama3-70b-8192
+meta-llama/llama-4-maverick-17b-128e-instruct
+mistral-saba-24b
+whisper-large-v3
+allam-2-7b
+and more... 🧑‍💻
